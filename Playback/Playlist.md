@@ -1,0 +1,5 @@
+- get playlist from `Spotify`
+- parse into json 
+- google-search with `site:youtube.com`
+- create `yt-playlist.json`
+- 
